@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @domigi
+- 🎓 currently studying CS at ZHAW
