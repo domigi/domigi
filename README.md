@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @domigi
-- 🎓 currently studying CS at ZHAW
+- 🎓 BSc in CS at ZHAW
